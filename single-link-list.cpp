@@ -2,7 +2,7 @@
 Author : Martand Singh
 Date : 25 Jan 2019
 Scope: Single linked list implementation in cpp.
-channel : http://www.faceboo.com/codemakerz
+channel : http://www.facebook.com/codemakerz
 */
 
 #include <iostream>
