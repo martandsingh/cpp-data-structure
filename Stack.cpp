@@ -1,3 +1,11 @@
+
+/*
+Author : Martand Singh
+Date : 25 Jan 2019
+Scope: Stack implementation in cpp.
+channel : http://www.faceboo.com/codemakerz
+*/
+
 #include<iostream>
 
 #define Max 10
