@@ -1,5 +1,5 @@
 {
-    "editor.fontSize": 23,
+    "editor.fontSize": 20,
     "files.associations": {
         "*.tcc": "cpp",
         "cctype": "cpp",
